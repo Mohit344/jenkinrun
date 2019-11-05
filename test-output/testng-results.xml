@@ -1,0 +1,2781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="256" passed="256">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103337" started-at="2019-10-30T14:10:58 IST" finished-at="2019-10-30T14:12:42 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103337" started-at="2019-10-30T14:10:58 IST" finished-at="2019-10-30T14:12:42 IST">
+      <class name="com.atmecs.testscript.AtmecsHomePageScript">
+        <test-method status="PASS" signature="configSetup()[pri:0, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="configSetup" is-config="true" duration-ms="40807" started-at="2019-10-30T14:10:58 IST" finished-at="2019-10-30T14:11:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configSetup -->
+        <test-method status="PASS" signature="clickOnHomeMenu()[pri:1, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="clickOnHomeMenu" duration-ms="3185" started-at="2019-10-30T14:11:39 IST" finished-at="2019-10-30T14:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHomeMenu -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="192" started-at="2019-10-30T14:11:43 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="145" started-at="2019-10-30T14:11:44 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="178" started-at="2019-10-30T14:11:44 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="184" started-at="2019-10-30T14:11:44 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="153" started-at="2019-10-30T14:11:44 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="162" started-at="2019-10-30T14:11:44 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="142" started-at="2019-10-30T14:11:44 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="99" started-at="2019-10-30T14:11:45 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="91" started-at="2019-10-30T14:11:45 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="134" started-at="2019-10-30T14:11:45 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="138" started-at="2019-10-30T14:11:45 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="140" started-at="2019-10-30T14:11:45 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="141" started-at="2019-10-30T14:11:45 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="100" started-at="2019-10-30T14:11:45 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="145" started-at="2019-10-30T14:11:45 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="148" started-at="2019-10-30T14:11:46 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="147" started-at="2019-10-30T14:11:46 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="149" started-at="2019-10-30T14:11:46 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="158" started-at="2019-10-30T14:11:46 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="148" started-at="2019-10-30T14:11:46 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="143" started-at="2019-10-30T14:11:46 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="144" started-at="2019-10-30T14:11:46 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="137" started-at="2019-10-30T14:11:47 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="148" started-at="2019-10-30T14:11:47 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="151" started-at="2019-10-30T14:11:47 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="134" started-at="2019-10-30T14:11:47 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="146" started-at="2019-10-30T14:11:47 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="132" started-at="2019-10-30T14:11:47 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="133" started-at="2019-10-30T14:11:47 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="182" started-at="2019-10-30T14:11:48 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="validateHomeMenuFooter(java.lang.String)[pri:2, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateHomeMenuFooter" duration-ms="218" started-at="2019-10-30T14:11:48 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeMenuFooter -->
+        <test-method status="PASS" signature="clickOnAboutUsMenu()[pri:3, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="clickOnAboutUsMenu" duration-ms="2618" started-at="2019-10-30T14:11:48 IST" finished-at="2019-10-30T14:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAboutUsMenu -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="151" started-at="2019-10-30T14:11:51 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="150" started-at="2019-10-30T14:11:51 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="168" started-at="2019-10-30T14:11:51 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="131" started-at="2019-10-30T14:11:51 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="134" started-at="2019-10-30T14:11:51 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="136" started-at="2019-10-30T14:11:51 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="129" started-at="2019-10-30T14:11:52 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="90" started-at="2019-10-30T14:11:52 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="91" started-at="2019-10-30T14:11:52 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="132" started-at="2019-10-30T14:11:52 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="132" started-at="2019-10-30T14:11:52 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="131" started-at="2019-10-30T14:11:52 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="132" started-at="2019-10-30T14:11:52 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="94" started-at="2019-10-30T14:11:52 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="131" started-at="2019-10-30T14:11:53 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="130" started-at="2019-10-30T14:11:53 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="129" started-at="2019-10-30T14:11:53 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="127" started-at="2019-10-30T14:11:53 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="137" started-at="2019-10-30T14:11:53 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="130" started-at="2019-10-30T14:11:53 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="130" started-at="2019-10-30T14:11:53 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="130" started-at="2019-10-30T14:11:53 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="148" started-at="2019-10-30T14:11:54 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="138" started-at="2019-10-30T14:11:54 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="132" started-at="2019-10-30T14:11:54 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="142" started-at="2019-10-30T14:11:54 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="153" started-at="2019-10-30T14:11:54 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="150" started-at="2019-10-30T14:11:54 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="177" started-at="2019-10-30T14:11:54 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="147" started-at="2019-10-30T14:11:55 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="validateAboutUsFooter(java.lang.String)[pri:4, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateAboutUsFooter" duration-ms="131" started-at="2019-10-30T14:11:55 IST" data-provider="PageFooters" finished-at="2019-10-30T14:11:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutUsFooter -->
+        <test-method status="PASS" signature="clickOnServicesMenu()[pri:5, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="clickOnServicesMenu" duration-ms="10246" started-at="2019-10-30T14:11:55 IST" finished-at="2019-10-30T14:12:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnServicesMenu -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="145" started-at="2019-10-30T14:12:05 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="136" started-at="2019-10-30T14:12:05 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="133" started-at="2019-10-30T14:12:05 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="133" started-at="2019-10-30T14:12:06 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="135" started-at="2019-10-30T14:12:06 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="135" started-at="2019-10-30T14:12:06 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="135" started-at="2019-10-30T14:12:06 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="101" started-at="2019-10-30T14:12:06 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="97" started-at="2019-10-30T14:12:06 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="148" started-at="2019-10-30T14:12:06 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="144" started-at="2019-10-30T14:12:07 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="135" started-at="2019-10-30T14:12:07 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="134" started-at="2019-10-30T14:12:07 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="97" started-at="2019-10-30T14:12:07 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="160" started-at="2019-10-30T14:12:07 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="139" started-at="2019-10-30T14:12:07 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="134" started-at="2019-10-30T14:12:07 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="135" started-at="2019-10-30T14:12:07 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="136" started-at="2019-10-30T14:12:08 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="142" started-at="2019-10-30T14:12:08 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="137" started-at="2019-10-30T14:12:08 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="130" started-at="2019-10-30T14:12:08 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="141" started-at="2019-10-30T14:12:08 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="134" started-at="2019-10-30T14:12:08 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="132" started-at="2019-10-30T14:12:08 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="133" started-at="2019-10-30T14:12:09 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="131" started-at="2019-10-30T14:12:09 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="134" started-at="2019-10-30T14:12:09 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="142" started-at="2019-10-30T14:12:09 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="138" started-at="2019-10-30T14:12:09 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="validateServicesFooter(java.lang.String)[pri:6, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateServicesFooter" duration-ms="139" started-at="2019-10-30T14:12:09 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateServicesFooter -->
+        <test-method status="PASS" signature="clickOnPatnersMenu()[pri:7, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="clickOnPatnersMenu" duration-ms="4188" started-at="2019-10-30T14:12:09 IST" finished-at="2019-10-30T14:12:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnPatnersMenu -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="165" started-at="2019-10-30T14:12:14 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="130" started-at="2019-10-30T14:12:14 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="137" started-at="2019-10-30T14:12:14 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="157" started-at="2019-10-30T14:12:14 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="137" started-at="2019-10-30T14:12:14 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="142" started-at="2019-10-30T14:12:14 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="125" started-at="2019-10-30T14:12:14 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="94" started-at="2019-10-30T14:12:15 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="94" started-at="2019-10-30T14:12:15 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="131" started-at="2019-10-30T14:12:15 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="139" started-at="2019-10-30T14:12:15 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="132" started-at="2019-10-30T14:12:15 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="128" started-at="2019-10-30T14:12:15 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="95" started-at="2019-10-30T14:12:15 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="132" started-at="2019-10-30T14:12:15 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="125" started-at="2019-10-30T14:12:16 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="130" started-at="2019-10-30T14:12:16 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="127" started-at="2019-10-30T14:12:16 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="137" started-at="2019-10-30T14:12:16 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="138" started-at="2019-10-30T14:12:16 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="134" started-at="2019-10-30T14:12:16 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="137" started-at="2019-10-30T14:12:16 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="135" started-at="2019-10-30T14:12:17 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="129" started-at="2019-10-30T14:12:17 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="125" started-at="2019-10-30T14:12:17 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="144" started-at="2019-10-30T14:12:17 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="138" started-at="2019-10-30T14:12:17 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="145" started-at="2019-10-30T14:12:17 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="154" started-at="2019-10-30T14:12:17 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="159" started-at="2019-10-30T14:12:17 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="validatePartnerFooter(java.lang.String)[pri:8, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validatePartnerFooter" duration-ms="148" started-at="2019-10-30T14:12:18 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePartnerFooter -->
+        <test-method status="PASS" signature="clickOnMediaMenu()[pri:9, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="clickOnMediaMenu" duration-ms="294" started-at="2019-10-30T14:12:18 IST" finished-at="2019-10-30T14:12:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMediaMenu -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="145" started-at="2019-10-30T14:12:18 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="126" started-at="2019-10-30T14:12:18 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="99" started-at="2019-10-30T14:12:18 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="101" started-at="2019-10-30T14:12:18 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="103" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="96" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="91" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="94" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="96" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="91" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="99" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="91" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="92" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="105" started-at="2019-10-30T14:12:19 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="107" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="103" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="103" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="94" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="91" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="89" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="90" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="88" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="90" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="93" started-at="2019-10-30T14:12:20 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="97" started-at="2019-10-30T14:12:21 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="89" started-at="2019-10-30T14:12:21 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="94" started-at="2019-10-30T14:12:21 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="104" started-at="2019-10-30T14:12:21 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="102" started-at="2019-10-30T14:12:21 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="106" started-at="2019-10-30T14:12:21 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="validateMediaFooter(java.lang.String)[pri:10, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateMediaFooter" duration-ms="102" started-at="2019-10-30T14:12:21 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMediaFooter -->
+        <test-method status="PASS" signature="clickOnInsightMenu()[pri:11, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="clickOnInsightMenu" duration-ms="288" started-at="2019-10-30T14:12:21 IST" finished-at="2019-10-30T14:12:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnInsightMenu -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="162" started-at="2019-10-30T14:12:22 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="102" started-at="2019-10-30T14:12:22 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="110" started-at="2019-10-30T14:12:22 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="118" started-at="2019-10-30T14:12:22 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="90" started-at="2019-10-30T14:12:22 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="90" started-at="2019-10-30T14:12:22 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="95" started-at="2019-10-30T14:12:22 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="89" started-at="2019-10-30T14:12:22 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="97" started-at="2019-10-30T14:12:22 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="96" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="94" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="94" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="99" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="97" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="90" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="87" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="87" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="96" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="94" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="95" started-at="2019-10-30T14:12:23 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="91" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="87" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="91" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="104" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="111" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="87" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="87" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="88" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="88" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="95" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="validateInsightsFooter(java.lang.String)[pri:12, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateInsightsFooter" duration-ms="95" started-at="2019-10-30T14:12:24 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInsightsFooter -->
+        <test-method status="PASS" signature="clickOnCarrerMenu()[pri:13, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="clickOnCarrerMenu" duration-ms="4267" started-at="2019-10-30T14:12:25 IST" finished-at="2019-10-30T14:12:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCarrerMenu -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="186" started-at="2019-10-30T14:12:29 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="124" started-at="2019-10-30T14:12:29 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="129" started-at="2019-10-30T14:12:29 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="130" started-at="2019-10-30T14:12:29 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="129" started-at="2019-10-30T14:12:29 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="126" started-at="2019-10-30T14:12:30 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="127" started-at="2019-10-30T14:12:30 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="86" started-at="2019-10-30T14:12:30 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="93" started-at="2019-10-30T14:12:30 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="131" started-at="2019-10-30T14:12:30 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="120" started-at="2019-10-30T14:12:30 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="126" started-at="2019-10-30T14:12:30 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="130" started-at="2019-10-30T14:12:30 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="92" started-at="2019-10-30T14:12:31 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="130" started-at="2019-10-30T14:12:31 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="123" started-at="2019-10-30T14:12:31 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="129" started-at="2019-10-30T14:12:31 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="124" started-at="2019-10-30T14:12:31 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="131" started-at="2019-10-30T14:12:31 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="128" started-at="2019-10-30T14:12:31 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="141" started-at="2019-10-30T14:12:31 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="143" started-at="2019-10-30T14:12:32 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="124" started-at="2019-10-30T14:12:32 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="127" started-at="2019-10-30T14:12:32 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="142" started-at="2019-10-30T14:12:32 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="157" started-at="2019-10-30T14:12:32 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="151" started-at="2019-10-30T14:12:32 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="125" started-at="2019-10-30T14:12:32 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="124" started-at="2019-10-30T14:12:33 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="126" started-at="2019-10-30T14:12:33 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="validateCarrersFooter(java.lang.String)[pri:14, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateCarrersFooter" duration-ms="147" started-at="2019-10-30T14:12:33 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarrersFooter -->
+        <test-method status="PASS" signature="clickOnContactUsMenu()[pri:15, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="clickOnContactUsMenu" duration-ms="4070" started-at="2019-10-30T14:12:33 IST" finished-at="2019-10-30T14:12:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnContactUsMenu -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="131" started-at="2019-10-30T14:12:37 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="127" started-at="2019-10-30T14:12:37 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="133" started-at="2019-10-30T14:12:37 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="133" started-at="2019-10-30T14:12:37 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="131" started-at="2019-10-30T14:12:38 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="125" started-at="2019-10-30T14:12:38 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="124" started-at="2019-10-30T14:12:38 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="101" started-at="2019-10-30T14:12:38 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="92" started-at="2019-10-30T14:12:38 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="143" started-at="2019-10-30T14:12:38 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="147" started-at="2019-10-30T14:12:38 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="131" started-at="2019-10-30T14:12:38 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="122" started-at="2019-10-30T14:12:39 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="98" started-at="2019-10-30T14:12:39 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="130" started-at="2019-10-30T14:12:39 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="134" started-at="2019-10-30T14:12:39 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="127" started-at="2019-10-30T14:12:39 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="134" started-at="2019-10-30T14:12:39 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="125" started-at="2019-10-30T14:12:39 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="130" started-at="2019-10-30T14:12:39 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="124" started-at="2019-10-30T14:12:40 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="135" started-at="2019-10-30T14:12:40 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="134" started-at="2019-10-30T14:12:40 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="140" started-at="2019-10-30T14:12:40 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="125" started-at="2019-10-30T14:12:40 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="130" started-at="2019-10-30T14:12:40 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="130" started-at="2019-10-30T14:12:40 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="134" started-at="2019-10-30T14:12:40 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="123" started-at="2019-10-30T14:12:41 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="135" started-at="2019-10-30T14:12:41 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="validateContactUsFooter(java.lang.String)[pri:16, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="validateContactUsFooter" duration-ms="123" started-at="2019-10-30T14:12:41 IST" data-provider="PageFooters" finished-at="2019-10-30T14:12:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactUsFooter -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.atmecs.testscript.AtmecsHomePageScript@5a1c0542]" name="endReport" is-config="true" duration-ms="828" started-at="2019-10-30T14:12:41 IST" finished-at="2019-10-30T14:12:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.atmecs.testscript.AtmecsHomePageScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

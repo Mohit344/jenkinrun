@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+
+	<test name="searchProduct">
+		<classes>
+			<class name="com.atmecs.testscript.AtmecsHomePageScript" />   <!-- CLASS NAME -->
+		</classes>
+	</test>
+
+<!-- 	<test name="productdetail"> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.atmec.script.ProductDetailsScript" />  CLASS NAME -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+
+</suite>
